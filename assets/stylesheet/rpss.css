@@ -1,0 +1,22 @@
+<style> {
+    background-color: aliceblue;
+}
+#content {
+    max-width: 1300px;
+    margin: auto; 
+    background-color: ; 
+}
+
+h1 {
+    text-align: center;
+    padding: 20px;
+}
+
+h2 {
+    text-align: center;
+    padding: 20px;
+}
+
+body {
+    background-color: aquamarine;
+}
